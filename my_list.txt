@@ -1,0 +1,7 @@
+"Burger King"
+"McDonald's"
+"Carls Jr."
+"Wendy's"
+"White Castle"
+"Shake Shack"
+"Steak N Shake"
