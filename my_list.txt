@@ -1,0 +1,8 @@
+dog
+cat
+bird
+cow
+fox
+pig
+lamb
+horse
