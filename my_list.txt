@@ -1,0 +1,5 @@
+"Link"
+"Zelda"
+"Navi"
+"Epona"
+"Tingle"
