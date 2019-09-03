@@ -1,0 +1,18 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My List</title>
+</head>
+
+<body>
+  <ul>
+    <li>Cleaners From Venus</li>
+    <li>The Clean</li>
+    <li>Kim Wilde</li>
+    <li>Harold Budd</li>
+    <li>Jean-Michel Jarre</li>
+  </ul>
+</body>
+</html>
