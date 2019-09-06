@@ -1,0 +1,6 @@
+"charmander"
+"bulbasaur"
+"squirtle"
+"pikachu"
+"mew"
+"mewtwo"
