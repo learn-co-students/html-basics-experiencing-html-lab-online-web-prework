@@ -14,3 +14,10 @@ RSpec.configure do |config|
   #     --seed 1234
   # config.order = 'random'
 end
+    my_list.txt
+    my_list.html
+    "Love Will Tear Us Apart"
+    "Bela Lugosi's Dead"
+    "A Forest"
+    "Nine While Nine"
+    "Girlfriend In a Coma"
