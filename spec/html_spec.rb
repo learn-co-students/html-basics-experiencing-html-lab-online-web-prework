@@ -1,8 +1,21 @@
-require_relative './spec_helper'
+<<!DOCTYPE html>
 
-describe "A populated HTML file called my_list.html" do
-  it 'should be present' do
-    file_is_present = File.exists?("my_list.html")
-    expect(file_is_present).to be_truthy, "Make sure you created a file called my_list.html with your HTML document in it!"
-  end
-end
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+  <body>
+    <h1>My Music List</h1>
+    <p>Some of my favorite post-punk and Goth songs!</p>
+    <ul>
+      <li>"Love Will Tear Us Apart"</li>
+      <li>"Bela Lugosi's Dead"</li>
+      <li>"A Forest"</li>
+      <li>"Nine While Nine"</li>
+      <li>"Girlfriend In a Coma"</li>
+    </ul>
+  </body>
+
+</html>
